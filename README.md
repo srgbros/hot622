@@ -1,24 +1,8 @@
-<div align="center">
-  <a href="//handsontable.com" target="_blank"><img src="https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74-new.png" alt="Handsontable Community Edition logo" /></a>
-</div>
+# HoT622
 
-<br/>
+From [**Handsontable Community Edition (CE) v.6.2.2**](https://github.com/sakaicontrib/handsontable), last open source version of **Handsontable**.
 
-[**Handsontable Community Edition (CE)**](//handsontable.com) is an open source JavaScript/HTML5 data grid component with spreadsheet look & feel. It easily integrates with any data source and comes with a variety of useful features like data binding, validation, sorting or powerful context menu. It is available for [Vue](//github.com/handsontable/vue-handsontable-official), [React](//github.com/handsontable/react-handsontable), [Angular](//github.com/handsontable/angular-handsontable) and [Polymer](//github.com/handsontable/hot-table).
-
-If you are looking for an extended version, try out [Handsontable Pro](//github.com/handsontable/handsontable-pro).
-
-[![Build status](https://travis-ci.org/handsontable/handsontable.png?branch=master)](//travis-ci.org/handsontable/handsontable)
-[![npm](https://img.shields.io/npm/dt/handsontable.svg)](//npmjs.com/package/handsontable)
-[![npm](https://img.shields.io/npm/dm/handsontable.svg)](//npmjs.com/package/handsontable)
-[![npm](https://img.shields.io/github/contributors/handsontable/handsontable.svg)](//github.com/handsontable/handsontable/graphs/contributors)
-
-
-----
-
-**We are looking for Contributors who would like to help us with translations. [Learn more](https://github.com/handsontable/handsontable/issues/4696)**
-<br/>
-Most wanted languages: Danish, Portuguese, Spanish and Swedish.
+The *blurb*: HoT is a JavaScript/HTML5 data grid component with spreadsheet look & feel. It easily integrates with any data source and comes with a variety of useful features like data binding, validation, sorting or powerful context menu.
 
 ---
 
@@ -54,18 +38,11 @@ The list below gives a rough idea on what you can do with Handsontable CE, but i
 <br/>
 
 ### Installation
-There are many ways to install Handsontable CE, but we suggest using npm:
-```
-npm install handsontable
-```
 
-**Alternative ways to install**
-- See the [download section](//handsontable.com/community-download) on how to install Handsontable CE using nuget, bower, yarn and more.
-
-<br/>
+(to come...)
 
 ### Basic usage
-Assuming that you have already installed Handsontable CE, create an empty `<div>` element that will be turned into a spreadsheet:
+Create an empty `<div>` element that will be turned into a spreadsheet:
 
 ```html
 <div id="example"></div>
@@ -89,10 +66,11 @@ var hot = new Handsontable(container, {
 
 <br/>
 
+<!-- 
 ### Examples
 - [See a live demo](//handsontable.com/examples.html)
+-->
 
-<br/>
 
 ### Features
 
@@ -112,9 +90,9 @@ var hot = new Handsontable(container, {
 - Internationalization
 - Non-contiguous selection
 
+<!--
 [See a comparison table](//handsontable.com/docs/tutorial-features.html)
 
-<br/>
 
 ### Screenshot
 <div align="center">
@@ -123,7 +101,6 @@ var hot = new Handsontable(container, {
 </a>
 </div>
 
-<br/>
 
 ### Resources
 - [API Reference](//handsontable.com/docs/Core.html)
@@ -132,7 +109,6 @@ var hot = new Handsontable(container, {
 - [Roadmap](//trello.com/b/PztR4hpj)
 - [Newsroom](//twitter.com/handsontable)
 
-<br/>
 
 ### Wrappers
 Handsontable CE comes with wrappers and directives for most popular frameworks:
@@ -144,27 +120,22 @@ Handsontable CE comes with wrappers and directives for most popular frameworks:
 - [Polymer](//github.com/handsontable/hot-table)
 - [Typescript file](//github.com/handsontable/handsontable/blob/master/handsontable.d.ts)
 
-<br/>
 
 ### Support
-Report all the suggestions and problems on [GitHub Issues](//github.com/handsontable/handsontable/issues).
+Report all the suggestions and problems on [GitHub Issues](//github.com/srgbros/hot622/issues).
 
-An open source version doesn't include a commercial support. You need to purchase [Handsontable Pro](//github.com/handsontable/handsontable-pro) license or [contact us](//handsontable.com/contact.html) directly in order to obtain a technical support from the Handsoncode team.
-
-<br/>
 
 ### Contributing
 If you would like to help us to develop Handsontable, please take a look at this [guide for contributing](//github.com/handsontable/handsontable/blob/master/CONTRIBUTING.md).
 
-<br/>
 
 ### Community
 - [GitHub issues](//github.com/handsontable/handsontable/issues)
 - [Stackoverflow](//stackoverflow.com/tags/handsontable)
 - [Forum](//forum.handsontable.com)
 - [Twitter](//twitter.com/handsontable)
+-->
 
-<br/>
 
 ### License
 Handsontable Community Edition is released under the MIT license. [Read license](//github.com/handsontable/handsontable/blob/master/LICENSE).
